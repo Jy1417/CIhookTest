@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "CIAppDelegateHook.h"
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 

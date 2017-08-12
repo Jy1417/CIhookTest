@@ -7,9 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "CIViewControllerHook.h"
 
 @interface ViewController : UIViewController
 
+- (instancetype)initWithTitle:(NSString *)title;
 
 @end
 
